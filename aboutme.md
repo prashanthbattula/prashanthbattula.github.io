@@ -1,9 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
 ---
-
 # About Me
 
 Hello! I'm **Prashanth Reddy Battula**, a dedicated and detail-oriented data scientist with a strong foundation in computer science and business administration. I hold a B.COM in Computers from Osmania University and an MBA specializing in international finance and project management.
